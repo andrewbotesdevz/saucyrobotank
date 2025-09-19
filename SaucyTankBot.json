@@ -1,0 +1,10 @@
+{
+  "name": "Saucy Tank Bot",
+  "version": "1.0",
+  "authors": [ "Andrew" ],
+  "description": "This is a saucy tank bot that plays the game with flair and style.",
+  "homepage": "N/A",
+  "countryCodes": [ "ZA" ],
+  "platform": ".NET 9.0",
+  "programmingLang": "C# 13.0"
+}
